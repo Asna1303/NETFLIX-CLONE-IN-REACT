@@ -9,6 +9,7 @@ function Banner() {
     <button className='button'>Play</button>
     <button className='button'>My List</button>
 </div>
+<h1 className='description'>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</h1>
 </div>
     </div>
   )
