@@ -11,6 +11,7 @@ function Banner() {
 </div>
 <h1 className='description'>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</h1>
 </div>
+<div className="fade_bottom"></div>
     </div>
   )
 }
