@@ -2,7 +2,9 @@ import React from 'react'
 import './RowPost.css'
 function RowPost() {
   return (
-    <div>RowPost</div>
+    <div className='row'>
+        <h2>Title</h2>
+    </div>
   )
 }
 
