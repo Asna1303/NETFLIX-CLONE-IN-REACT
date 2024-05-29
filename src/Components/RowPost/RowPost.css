@@ -5,4 +5,13 @@
 .posters{
     display: flex;
     padding: 20px;
+    overflow-x: scroll;
+    overflow: hidden;
+}
+posters::-webkit-scrollbar{
+    display: none;
+}
+.poster{
+    max-height: 250px;
+    margin-right: 110px;
 }
